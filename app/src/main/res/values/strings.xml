@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Spending Summary</string>
+    <string name="createNewText">Create New</string>
+    <string name="statisticText">Statistic</string>
+    <string name="exitText">Exit</string>
+    <string name="errorText">Error</string>
 </resources>
