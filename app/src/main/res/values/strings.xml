@@ -4,4 +4,15 @@
     <string name="statisticText">Statistic</string>
     <string name="exitText">Exit</string>
     <string name="errorText">Error</string>
+    <string name="sectionHintText">Enter section name (e.g., Work or Home)</string>
+    <string name="enterTextText">Enter text</string>
+    <string name="okButtonText">OK</string>
+    <string name="cancelButtonText">Cancel</string>
+    <string name="statisticNameText">Enter Statistic Field Name</string>
+    <string name="incomeText">Income</string>
+    <string name="expenseText">Expense</string>
+    <string name="enterText">Enter</string>
+    <string name="addText">Add</string>
+    <string name="finishText">Finish</string>
+
 </resources>
